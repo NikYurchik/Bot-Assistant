@@ -2,7 +2,7 @@
 This is an application for storing contacts and notes.
 3 options for implementing the bot.
 
-1. Python - Console bot.
+1. Folder "Python" - Console bot.
    
     Run in interactive mode:
    
@@ -25,7 +25,7 @@ Run in interactive mode:
 
     BotAssistant.exe
 
-4. Folder "c#WinBot" - with a Windows interface.
+3. Folder "c#WinBot" - with a Windows interface.
 
 It is the same bot, without a notebook and only in interactive mode.
 
